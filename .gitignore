@@ -3,5 +3,6 @@ READ ME FIRST.txt
 AudioKit/
 AudioKitUI/
 SoundpipeAudioKit/
-BreaKiT.xcodeproj/xcuserdata/*
-BreaKiT.xcodeproj/project.xcworkspace/xcuserdata/*
+*.xcodeproj/xcuserdata/*
+*.xcodeproj/project.xcworkspace/xcuserdata/*
+xcuserdata/
